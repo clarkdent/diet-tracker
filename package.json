@@ -16,20 +16,19 @@
     "expo-sqlite": "~13.0.0",
     "react": "18.2.0",
     "react-native": "0.74.1",
-    "react-navigation": "^5.x.x",
-    "@react-navigation/bottom-tabs": "^6.x.x",
     "@react-navigation/native": "^6.x.x",
+    "@react-navigation/bottom-tabs": "^6.x.x",
     "react-native-screens": "^3.x.x",
     "react-native-gesture-handler": "^2.x.x",
     "@react-native-async-storage/async-storage": "^1.x.x",
     "axios": "^1.x.x",
-    "moment": "^2.x.x"
+    "moment": "^2.x.x",
+    "@expo/vector-icons": "^13.x.x"
   },
   "devDependencies": {
-    "@types/react": "^18.x.x",
-    "@types/react-native": "^0.74.x",
+    "@types/react": "18.2.0",
+    "@types/react-native": "0.74.x",
     "jest": "^29.x.x",
-    "@testing-library/react-native": "^12.x.x",
     "typescript": "^5.x.x"
   },
   "private": true
